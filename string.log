@@ -1,0 +1,11 @@
+2022-07-15 21:40:50,078 INFO We are accessing String class
+2022-07-15 21:41:00,487 INFO We are inside function
+2022-07-15 21:41:00,488 INFO The slicing of the string is trDi
+2022-07-15 21:41:00,488 INFO We are in 2nd fun
+2022-07-15 21:41:00,488 INFO The result of 2nd fun is ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+2022-07-15 21:41:00,488 INFO We are inside fun 3
+2022-07-15 21:41:00,489 INFO The result of 3rd fun is atha    rv       
+2022-07-15 21:41:00,489 INFO We are inside func 4
+2022-07-15 21:41:00,489 INFO The result of 4th fun is **Atharv** 
+2022-07-15 21:41:00,489 INFO We are inside fun 5
+2022-07-15 21:41:00,489 INFO The result of 5th fun is tixiD vrahtA 

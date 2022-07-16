@@ -1,0 +1,34 @@
+2022-07-16 14:43:42,287 INFO We are into list class
+2022-07-16 14:43:42,288 INFO We are into 1st function
+2022-07-16 14:43:42,288 INFO The reverse of this list is [{'key1': 'atha', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+2022-07-16 14:43:42,289 INFO We are into 2nd function
+2022-07-16 14:43:42,289 INFO The number 2 is even
+2022-07-16 14:43:42,289 INFO The number 4 is even
+2022-07-16 14:43:42,289 INFO The number 6 is even
+2022-07-16 14:43:42,289 INFO The number 8 is even
+2022-07-16 14:43:42,289 INFO We are into 3rd function
+2022-07-16 14:43:42,289 INFO The number 1 is odd
+2022-07-16 14:43:42,290 INFO The number 3 is odd
+2022-07-16 14:43:42,290 INFO The number 7 is odd
+2022-07-16 14:43:42,293 INFO The number 9 is odd
+2022-07-16 14:43:42,293 INFO The number 11 is odd
+2022-07-16 14:43:42,293 INFO The number 13 is odd
+2022-07-16 14:43:42,293 INFO The number 15 is odd
+2022-07-16 14:43:42,293 INFO We are into 4th function
+2022-07-16 14:43:42,293 INFO The result is ineuron
+2022-07-16 14:43:42,294 INFO The result is ineuron and 8
+2022-07-16 14:43:42,294 INFO We are into 5th function
+2022-07-16 14:43:42,294 INFO The product is 1
+2022-07-16 14:43:42,294 INFO The product is 2
+2022-07-16 14:43:42,294 INFO The product is 6
+2022-07-16 14:43:42,294 INFO The product is 24
+2022-07-16 14:43:42,294 INFO The product is 48
+2022-07-16 14:43:42,294 INFO The product is 144
+2022-07-16 14:43:42,294 INFO The product is 576
+2022-07-16 14:43:42,294 INFO The product is 2880
+2022-07-16 14:43:42,295 INFO The product is 17280
+2022-07-16 14:43:42,295 INFO The product is 51840
+2022-07-16 14:43:42,295 INFO The product is 207360
+2022-07-16 14:43:42,295 INFO The product is 1036800
+2022-07-16 14:43:42,295 INFO The product is 6220800
+2022-07-16 14:43:42,295 INFO The product is 43545600
